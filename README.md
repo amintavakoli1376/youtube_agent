@@ -34,9 +34,14 @@ A Telegram bot that extracts, translates, and summarizes YouTube video transcrip
 
 ### Required Environment Variables
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+
 SUPADATA_API_KEY=your_supadata_api_key
+
 GEMINI_API_KEY=your_gemini_api_key
+
 HUGGINGFACE_TOKEN=your_huggingface_token
+
 HTTP_PROXY=your_proxy_url  # if needed
+
 HTTPS_PROXY=your_proxy_url # if needed
    
