@@ -25,11 +25,17 @@ A Telegram bot that extracts, translates, and summarizes YouTube video transcrip
 
 ### Installation
 1. Clone the repository:
+2. 
    git clone https://github.com/amintavakoli1376/youtube_agent
+   
    cd your-repo
+   
 2.Install dependencies:
+
    pip install -r requirements.txt
+   
 3.Create .env file:
+
    cp .env.example .env
 
 ### Required Environment Variables
